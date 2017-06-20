@@ -1,0 +1,6 @@
+[package]
+name = "trait_group"
+version = "0.1.0"
+authors = ["Gilad Naaman <gilad.naaman@gmail.com>"]
+
+[dependencies]
